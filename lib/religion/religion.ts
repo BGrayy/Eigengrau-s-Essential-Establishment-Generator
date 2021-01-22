@@ -27,7 +27,9 @@ const traits = {
     prudent: 'reckless',
     temperate: 'indulgent',
     trusting: 'suspicious',
-    valorous: 'cowardly'
+    valorous: 'cowardly',
+    patient: 'wrothful',
+    content: 'envious'
   },
   viceKey: {
     lustful: 'chaste',
@@ -42,7 +44,9 @@ const traits = {
     reckless: 'prudent',
     indulgent: 'temperate',
     suspicious: 'trusting',
-    cowardly: 'valorous'
+    cowardly: 'valorous',
+    wrothful: 'patient',
+    envious: 'content'
   }
 }
 
